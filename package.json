@@ -1,0 +1,25 @@
+{
+    "name": "ts-tasks",
+    "version": "1.0.0",
+    "description": "Задачки чтобы выучить TypeScript",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vmik7/ts-tasks.git"
+    },
+    "keywords": [
+        "TypeScript"
+    ],
+    "author": "vmik7 <vmik7@yandex.ru>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vmik7/ts-tasks/issues"
+    },
+    "homepage": "https://github.com/vmik7/ts-tasks#readme",
+    "devDependencies": {
+        "typescript": "^5.2.1"
+    }
+}
